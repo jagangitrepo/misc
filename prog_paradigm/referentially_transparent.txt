@@ -1,0 +1,35 @@
+###############################################################################
+####				Referntially Transparent		   ####
+###############################################################################
+
+Definition:
+----------
+	-> In mathematics all function applications are referentially transparent.
+	-> It helps to improve the following:
+		-> Optimizing code by means of memoization.
+		-> Laxy evaluation or parallelization.
+	-> In functional programming enforce the referential transparency for all function.
+
+Example:
+
+// Imperative Programming or referentially Opaque
+
+int globalvalue = 0;
+
+int rq(int x)
+{
+	globalvalue++;
+	return x + globalvalue;
+}
+
+	-> on each execution, if the input argument value are same then also it will produce the different results.
+
+// Referentially transparent
+
+int rt(int x)
+{
+	return x + 1;
+}
+	-> rt is referentially transparent, means that rt(x_ = rt(y) if x=y. if the input argument values are same then it will produce the same results.
+
+
