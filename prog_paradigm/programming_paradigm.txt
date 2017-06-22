@@ -1,12 +1,13 @@
 ##################################################################
 ##		   Programming Paradigm				##	
 ##################################################################
+link : https://en.wikipedia.org/wiki/Programming_paradigm
 
 This file contains the explanations of types of programming paradigms.
 That i am interested on.
 
 Types of paradigms:
-	1. Declarative
+	1. Declarative 
 		a. Functional
 	2. Imperative
 		a. Procedural
@@ -17,7 +18,13 @@ Types of paradigms:
 1. Declarative:
 --------------
 	-> A style of programming will be used to building the structure and elements of a computer program.
-	-> Express the logic of a computation "without de3scribing its control flow".
+	-> Express the logic of a computation "without describing its control flow".
 	-> It focus on describing "What the program should operates".
 	-> Greatly used to write the "Parallel Programs".
-
+	-> Common languages are ( SQL, functional programing , etc,,.)
+	Definitions:
+	------------
+		-> A program that describe "What computation should be performed and not how to compute it".
+		-> Any pragramming language that lacks side effects( or more specifcally, is "referentially tansparent").
+		-> A language with a clear correspondance to mathematical logic.
+		

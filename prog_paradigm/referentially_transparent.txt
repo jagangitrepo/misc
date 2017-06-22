@@ -1,6 +1,7 @@
 ###############################################################################
-####				Referntially Transparent		   ####
+####				Referentially Transparent		   ####
 ###############################################################################
+link : https://en.wikipedia.org/wiki/Referential_transparency
 
 Definition:
 ----------
