@@ -2,6 +2,7 @@
 ##		   Programming Paradigm				##	
 ##################################################################
 link : https://en.wikipedia.org/wiki/Programming_paradigm
+link : https://tylermcginnis.com/imperative-vs-declarative-programming/
 
 This file contains the explanations of types of programming paradigms.
 That i am interested on.
