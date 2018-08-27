@@ -1,0 +1,9 @@
+Concurreny is not parallelism.
+http://tutorials.jenkov.com/java-concurrency/concurrency-vs-parallelism.html
+
+Concurrency:
+  The application is making progress on more than one task at the same time ( concurrently ).
+
+Parallelism:
+  The application is making progress on more than one task at different resource at the same time.
+  
